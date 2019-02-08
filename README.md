@@ -1,4 +1,4 @@
-# MioStream - coming soon - In Submission - MTAP
+# MioStream - Published - MTAP
 MioStream: A Peer-To-Peer Distributed Live Media Streaming on the Edge
 
 ----------
