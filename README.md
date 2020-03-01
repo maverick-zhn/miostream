@@ -1,6 +1,8 @@
 # MioStream - Published - MTAP
 MioStream: A Peer-To-Peer Distributed Live Media Streaming on the Edge
 
+Palacios, S., Santos, V., Barsallo, E. et al. MioStream: a peer-to-peer distributed live media streaming on the edge. Multimed Tools Appl 78, 24657–24680 (2019). https://doi.org/10.1007/s11042-018-6940-2
+
 ----------
 
 ## WARNING
